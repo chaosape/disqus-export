@@ -1,8 +1,7 @@
 # -*- mode : python; fill-column: 80; -*-
 
-# Lifted from here:
-# https://github.com/disqus/disqus-python I removed the Paginator
-# since it didn't operate as I wanted.
+# Lifted from here: https://github.com/disqus/disqus-python 
+# I removed the Paginator since it didn't operate as I wanted.
 
 """
 disqus-python
