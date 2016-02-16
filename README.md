@@ -6,5 +6,8 @@ comments by iterating threads and posts.
 
 # Setup
 
+https://help.disqus.com/customer/portal/articles/787016-how-to-create-an-api-application
 
-# disqus-export
+# Example
+
+'python disqus-export.py -k 'APP_KEY' -s 'APP_SECRET' -f disqus -d "output/" -t 120'
